@@ -1,0 +1,12 @@
+gunicorn
+Django
+Scrapy
+Celery
+flower
+django-celery
+django-model-utils
+mysqlclient
+django-redis-cache
+beautifulsoup4
+dateutils
+hg+https://bitbucket.org/schinckel/django-jsonfield
