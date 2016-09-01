@@ -1,5 +1,6 @@
 gunicorn
 Django
+psycopg2
 Scrapy
 Celery
 flower
@@ -10,3 +11,13 @@ django-redis-cache
 beautifulsoup4
 dateutils
 hg+https://bitbucket.org/schinckel/django-jsonfield
+scrapy-djangoitem
+requests
+# dev
+django-debug-toolbar
+djangorestframework
+markdown
+django-filter
+#django-rest-swagger
+https://github.com/marcgibbons/django-rest-swagger/archive/stable/0.3.x.zip
+django-extensions
